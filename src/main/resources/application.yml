@@ -1,0 +1,6 @@
+algolia:
+  application-id: 9QTUJ256AO
+  search-api-key: 90c9be600b644d247ea307207057fbba
+  admin-api-key: ff25d29dc42be2012447ffe83ba9a34d
+  monitoring-api-key: ecab972a090a9059800c7708453dcfad
+  index-name: test-audit
